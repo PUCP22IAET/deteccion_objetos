@@ -1,6 +1,24 @@
 item {
   id: 1
-  name: 'Tigre'
+  name: 'Camion minero'
 }
 
+item {
+  id: 2
+  name: 'Excavadora'
+}
 
+item {
+  id: 3
+  name: 'Automovil'
+}
+
+item {
+  id: 4
+  name: 'Equipo linea amarilla'
+}
+
+item {
+  id: 5
+  name: 'Camion'
+}
